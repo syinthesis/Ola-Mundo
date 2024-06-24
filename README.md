@@ -1,4 +1,4 @@
 # Hello World !!
- Primeiro repositorio de git e github
-
-repositorio criado durante uma aula ao vivo!
+# Aula de Linguagem Markdown
+## 
+  Estou aprendendo linguagem _Markdowm_ no Curso em Video de Git e GitHub
